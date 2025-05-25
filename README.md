@@ -15,7 +15,3 @@ This repository contains configuration files and scripts for customizing and man
     git clone https://github.com/tilshansanoj/linux-config.git
     ```
 2. Follow the setup instructions in each directory or file.
-
-## License
-
-This project is licensed under the MIT License.
